@@ -6,4 +6,4 @@ browser
 
 Launch the app by opening `index.html` in the browser.
 
-Change the demo by commenting and uncommneting the different js scripts
+Change the demo by commenting and uncommenting the different js scripts
