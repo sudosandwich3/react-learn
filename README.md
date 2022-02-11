@@ -1,6 +1,6 @@
 Run npm install
 
-Use `npx babel --watch src --out-dir . --presets react-app/prod` to edit the files
+Use `npn run babel` when editing the files
 in `src`. This command will transpile the JSX into a format that can be used by the
 browser
 
