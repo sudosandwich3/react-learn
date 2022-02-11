@@ -1,0 +1,36 @@
+.border {
+    margin: 5px;
+    padding: 5px;
+    border: 5px solid
+}
+
+.render-fade {
+    color: red;
+    opacity: 0;
+    animation-duration: 3s;
+    animation-name: fade-text;
+    animation-iteration-count: inherit;
+}
+
+@keyframes fade-text {
+    from {
+        opacity: 100%;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+
+.margin-left {
+
+    margin-left: 50px;
+}
+
+.red {
+    border-color: #ff0000
+}
+
+.blue {
+    border-color: #445599
+}
